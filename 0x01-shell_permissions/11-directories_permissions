@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R d 755 .
+chmod -R find /opt/lampp/htdocs -type d -exec chmod 755 .
