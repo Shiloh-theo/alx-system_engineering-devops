@@ -1,0 +1,2 @@
+#!/bin/bash
+echo export num=0 | print_float
